@@ -1,4 +1,4 @@
-https://galiyaz.github.io/gulp/build/index.html
+https://galiyaz.github.io/Cat/build/index.html
 
 # Запуск
 В режиме разработки: 
